@@ -1,4 +1,4 @@
-# Sentiment-
+# Sentiment-Analysis
 
 ### <font color='blue'>What is Sentiment Analysis?</font>
 
@@ -8,8 +8,7 @@
 **"A bus is moving on the road" - conveys a neutral sentiment**
 
 #### <font color='blue'>Techniques for Sentiment Analysis</font>
-**
-1. TextBlob<br>
+**1. TextBlob<br>
     - NaiveBayesClassifier<br>
     - Pattern Analyzer<br>
 2. Word-Dictionary based <br>
